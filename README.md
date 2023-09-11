@@ -10,21 +10,22 @@
 
 PC DESIGN   👇🏻 <br>
 <div >
- 
-![Screenshot from 2023-09-11 19-38-06](https://github.com/LuckxSz/New-Year-Eve-V2/assets/135531180/e1f51e2e-4068-4819-ad41-0fb6f70fb334)
+
+![Screenshot from 2023-09-11 19-38-06](https://github.com/LuckxSz/New-Year-Eve-V2/assets/135531180/17f45d77-2a9e-4066-9532-9f3c85e7c66d)
 
 
-![Screenshot from 2023-09-11 19-38-21](https://github.com/LuckxSz/New-Year-Eve-V2/assets/135531180/25baa64f-d131-4f02-a04c-59ee2b6563f3)
+![Screenshot from 2023-09-11 19-38-21](https://github.com/LuckxSz/New-Year-Eve-V2/assets/135531180/39c73f76-73d0-4fba-b240-475b55e99a7d)
 
 
 
 </div>
 MOBILE DESIGN👇🏻 <br>
 
-![Screenshot from 2023-09-11 19-40-57](https://github.com/LuckxSz/New-Year-Eve-V2/assets/135531180/ea4bbcff-cd16-41b9-9172-997205b14a65)
 
+![Screenshot from 2023-09-11 19-40-57](https://github.com/LuckxSz/New-Year-Eve-V2/assets/135531180/cb86d672-5d4b-4426-b09b-c61dca6c2675)
 
-![Screenshot from 2023-09-11 19-41-14](https://github.com/LuckxSz/New-Year-Eve-V2/assets/135531180/55695a5c-94f0-4b09-b175-ca48069f5de1)
+![Screenshot from 2023-09-11 19-41-14](https://github.com/LuckxSz/New-Year-Eve-V2/assets/135531180/d1ee3e6d-4203-4dd4-9417-454be1e951a8)
+
 
 
 </div>
