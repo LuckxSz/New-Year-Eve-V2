@@ -6,7 +6,7 @@
  || A small project with html and css of a timer for the new year with a dark mode and light mode toggler.  || <br>
                 --------------------------------------------------------------- <br>
   
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://luckxsz.github.io/New-Year-Eve-V2/)
 
 PC DESIGN   👇🏻 <br>
 <div >
