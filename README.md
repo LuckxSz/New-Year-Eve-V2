@@ -1,9 +1,9 @@
 <strong> 
 <div align="center"> 
      ------------------------------------------------------------------- <br>
-   || Um pequeno projeto com html e css de um cronometro para o ano novo com um toggler de dark mode e light mode. || <br> 
-  || ダーク モードとライト モードの切り替え機能を備えた新年のタイマーの HTML と CSS を使用した小さなプロジェクト.||<br>
- || A small project with html and css of a timer for the new year eve with a dark mode and light mode toggler.  || <br>
+   || Um pequeno projeto com html e css de um cronometro para o ano novo, podendo alterar para o modo escuro e o modo claro . || <br> 
+  ||ダークモードとライトモードに切り替えることができる、新年用のタイマーのHTMLとCSSを含む小さなプロジェクト.||<br>
+ ||A small project with html and css of a timer for the new year, which can be switched to dark mode and light mode.  || <br>
                 --------------------------------------------------------------- <br>
   
 [Clique aqui para acessar](https://luckxsz.github.io/New-Year-Eve-V2/)
